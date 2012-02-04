@@ -10,10 +10,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : The Words
-tagline: Site Tagline
+tagline: More things
 author :
   name : Toby DiPasquale
-  email : no@nowhere.com
   github : codeslinger
   twitter : codeslinger
 
